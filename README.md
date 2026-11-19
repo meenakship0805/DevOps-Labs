@@ -1,12 +1,20 @@
-# DevOps-Labs
-DevOps Laboratory Portfolio
-Student Name: Meenakshi
-Roll No.: 2301730200
-GitHub: meenakship0805
-Repository: DevOps-Labs
+# DevOps Laboratory Portfolio
 
-📚 Laboratory Modules
-Module	Topic	Core Technologies	Status
-# Lab 1	DevOps Foundations & Continuous Integration	Ubuntu 24.04, Git, GitHub, Jenkins, Python Flask, CI/CD	Completed & Verified
-# Lab 2	Containerization & Kubernetes Orchestration	Docker, Docker Compose, Minikube, kubectl, Deployments, Services	Completed & Verified
-# Lab 3	Monitoring, Logging & DevSecOps	Ansible, Terraform, Prometheus, Grafana, ELK Stack, Pytest	Completed & Verified
+**Student Name:** Meenakshi Pandey  
+**GitHub:** [meenakship0805](https://github.com/meenakship0805)  
+**Repository:** DevOps
+**Roll No.:** 2301730200
+
+---
+
+## 📚 Laboratory Modules
+
+| Module | Topic | Core Technologies | Status |
+|:---:|---|---|:---:|
+| [Lab 1](./Lab-1/) | DevOps Fundamentals | Git, GitHub, Linux, CI/CD | Completed and Verified |
+| [Lab 2](./Lab-2/) | Containerization | Docker, Docker Compose | Completed and Verified |
+| [Lab 3](./Lab-3/) | Orchestration & Automation | Kubernetes, Jenkins, Ansible | Completed and Verified |
+
+---
+
+*This repository contains my DevOps laboratory exercises, practical implementations, assignments, and learning outcomes.*
