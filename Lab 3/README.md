@@ -1,6 +1,6 @@
 # DevOps Lab 3: Monitoring, Logging & DevSecOps
 
-**Student:** Srishti Kainth | **Roll No.:** 2301730175 | **Email:** srishtikainth2@gmail.com
+**Student:** Meenakshi | **Roll No.:** 2301730200 | **Email:** meenakship0805@gmail.com
 **Course:** DevOps and Automation (ENSP461)
 **Environment:** Ubuntu 24.04 LTS, Docker, Ansible, Terraform, ELK, Prometheus, Grafana, GitHub Actions
 
